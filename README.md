@@ -2,11 +2,10 @@
   😄 Anser Waseem | 📍 Lahore, Pakistan | 🌱 Full Stack Web Development
 </p>
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=onedark" /></a>
+[![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=onedark)](https://github.com/anserwaseem)
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&theme=onedark" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&theme=onedark)](https://github.com/anserwaseem)
 
-<br><br><br><br><br><br><br>
 <!--
 <a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MAthAdventuresWithPython&theme=onedark" />
