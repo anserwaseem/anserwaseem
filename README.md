@@ -1,10 +1,19 @@
-### Hi there 👋
 <p>
   😄 Anser Waseem | 📍 Lahore, Pakistan | 🌱 Full Stack Web Development
 </p>
 
-[![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&hide=prs,issues,contribs)](https://github.com/anserwaseem)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anserwaseem&hide=javascript,html])](https://github.com/anserwaseem)
+[![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=onedark)](https://github.com/anserwaseem)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&theme=onedark)](https://github.com/anserwaseem)
+
+<!--
+<a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MAthAdventuresWithPython&theme=onedark" />
+</a>
+<a href="https://github.com/anserwaseem/Cuckoo-hash-table">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&Cuckoo-hash-table&theme=onedark" />
+</a>
+-->
 
 <p>
   ⚡ I'm halfway though my Bachelors degree and I believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
@@ -14,9 +23,9 @@
 <p>
   💬 Html5, CSS3, JavaScript, Python, C++ <br>
   📖 Node / Express / MongoDB / React / MySQL <br>
-  <img src="https://img.shields.io/badge/HTML5-★★★★★-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-★★★★★-000000?logo=CSS3&labelColor=1572b6&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-000000?logo=JavaScript&labelColor=f7df1e&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-★★★★☆-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-★★★☆☆-000000?logo=CSS3&labelColor=1572b6&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-★★☆☆☆-000000?logo=JavaScript&labelColor=f7df1e&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-★★★☆☆-000000?logo=Python&labelColor=3776ab&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/C++-★★★★★-000000?logo=C++&labelColor=00599c&logoColor=ffffff" />
 </p>
