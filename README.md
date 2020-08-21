@@ -1,5 +1,5 @@
 <p>
-  😄 Anser Waseem | 📍 Lahore, Pakistan | 🌱 Full Stack Web Development
+  😄 Anser Waseem | 📍 Lahore, Pakistan | 🌱 FrontEnd Web Developer
 </p>
 
 [![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&include_all_commits=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
@@ -16,7 +16,7 @@
 -->
 
 <p>
-  ⚡ I'm halfway though my Bachelors degree and I believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
+  ⚡ I'm halfway through my Bachelors degree and I believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
 </p>
 
 ## Key Skills
