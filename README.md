@@ -1,16 +1,43 @@
-<p>
-  😄 Anser Waseem | 📍 Lahore, Pakistan | 🌱 FrontEnd Web Developer
-</p>
+<h1 align="center">
+  Hi there , I'm Anser <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+</h1>
+
+---
+
+<h3 align="center">
+<img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Anser Waseem |
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Full Stack Developer | 
+<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Pakistan
+</h3>
+
+<!--
+<p align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</p>
+<br>
+-->
 
 <p>
   ⚡ I'm halfway through my Bachelors degree and I believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
 </p>
+<br>
 
-[![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&include_all_commits=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
+<p align="center">
+<a href="https://twitter.com/anserrrr">
+  <img align="center" src="https://img.shields.io/twitter/follow/anser_waseem?logo=twitter&label=Follow&style=for-the-badge" />
+</a>
+<a href="https://badges.pufler.dev">
+  <img align="center" src="https://badges.pufler.dev/visits/anserwaseem/anserwaseem?style=plastic&label=Views&color=6252C2" />
+</a>
+</p>
+
+<br>
+
+[![Anser's github stats](https://github-readme-stats.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
 
-[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://wakatime.com/@anserwaseem)
+[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@anserwaseem)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anserwaseem&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical)](https://github.com/anserwaseem)
 
 <!--
 <a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
@@ -25,7 +52,7 @@
 
 ## Key Skills
 <p>
-  💬 Html, CSS, MySQL, C#, C, C++ <br>
+  💬 C++, Html, CSS, MySQL, C#, ASP.NET, C, Python <br>
   📖 JavaScript / Node / Express / MongoDB / React
   <!--
   <br><br>
