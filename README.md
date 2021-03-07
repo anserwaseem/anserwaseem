@@ -2,8 +2,6 @@
   Hi there , I'm Anser <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
 </h1>
 
----
-
 <h3 align="center">
 <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Anser Waseem |
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Full Stack Developer | 
