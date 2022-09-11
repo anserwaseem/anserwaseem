@@ -8,22 +8,14 @@
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Pakistan
 </h3>
 
-<!--
-<p align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</p>
-<br>
--->
-
-<p>
-  ⚡ I'm halfway through my Bachelors degree and I believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
+<p align="center">
+  ⚡ I'm a Full Stack Software Developer. I love to put creativity and innovation in my work. I believe there's still loads of things to explore and I'm deeply convinced that constant learning is the only way forward.
 </p>
 <br>
 
 <p align="center">
 <a href="https://twitter.com/anserrrr">
   <img align="center" src="https://img.shields.io/twitter/follow/anser_waseem?logo=twitter&label=Follow&style=for-the-badge" />
-</a>
-<a href="https://badges.pufler.dev">
-  <img align="center" src="https://badges.pufler.dev/visits/anserwaseem/anserwaseem?style=plastic&label=Views&color=6252C2" />
 </a>
 </p>
 
@@ -50,8 +42,8 @@
 
 ## Key Skills
 <p>
-  💬 C++, Html, CSS, MySQL, C#, ASP.NET, C, Python <br>
-  📖 JavaScript / Node / Express / MongoDB / React
+  💬 C#, ASP.NET, .NET Core, SQL, React.js, TypeScript<br>
+  📖 WPF, JavaScript, Node.js, Express.js
   <!--
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-★★★★☆-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
@@ -64,8 +56,10 @@
 
 ## Tools I Use
 <p>
-  <img src="https://img.shields.io/badge/VScode-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-9571bf?logo=Visual-Studio&labelColor=9571bf&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Github-181717?logo=GitHub&labelColor=181717&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Postman-ff6c37?logo=Postman&labelColor=ff6c37&logoColor=ffffff" />
 </p>
 
 ## 📫 Connect With Me
