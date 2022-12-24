@@ -42,8 +42,8 @@
 
 ## Key Skills
 <p>
-  💬 C#, ASP.NET, .NET Core, SQL, React.js, TypeScript<br>
-  📖 WPF, JavaScript, Node.js, Express.js
+  💬 C#, .NET, SQL, React.js, TypeScript<br>
+  📖 Node.js, Express.js, Electron.js, React Native
   <!--
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-★★★★☆-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
