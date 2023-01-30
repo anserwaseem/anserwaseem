@@ -13,11 +13,11 @@
 </p>
 <br>
 
-<p align="center">
-<a href="https://twitter.com/anserrrr">
+<!-- <p align="center">
+<a href="https://twitter.com/anser_waseem">
   <img align="center" src="https://img.shields.io/twitter/follow/anser_waseem?logo=twitter&label=Follow&style=for-the-badge" />
 </a>
-</p>
+</p> -->
 
 <br>
 
@@ -66,6 +66,6 @@
 <p>
   <a href="https://linkedin.com/in/anserwaseem"> <img src="https://img.shields.io/badge/Linkedin-0077b5?style=plastic&logo=Linkedin&labelColor=0077b5&logoColor=ffffff" />
   <a href="https://www.facebook.com/profile.php?id=100012232218081"> <img src="https://img.shields.io/badge/Facebook-1877f2?style=plastic&logo=Facebook&labelColor=1877f2&logoColor=ffffff" />
-  <a href="https://twitter.com/anserrrr"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=plastic&logo=Twitter&labelColor=1da1f2&logoColor=ffffff" />
+  <a href="https://twitter.com/anser_waseem"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=plastic&logo=Twitter&labelColor=1da1f2&logoColor=ffffff" />
   <a href="mailto:hafiz.anser.waseem@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&labelColor=d14836&logoColor=ffffff" />
 </p>
