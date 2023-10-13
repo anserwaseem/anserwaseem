@@ -1,60 +1,58 @@
 <h1 align="center">
-  Hi there , I'm Anser <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+  <span style="color: aqua">Hi there, I'm Anser</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
 </h1>
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Anser Waseem |
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Full Stack Developer | 
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Full Stack Engineer | 
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Pakistan
 </h3>
 
 <p align="center">
-  ⚡ I'm a Full Stack Software Developer. I love to put creativity and innovation in my work. I believe there's still loads of things to explore and I'm deeply convinced that constant learning is the only way forward.
+  ⚡ I'm a Full Stack Software Engineer. I love to put creativity and innovation in my work. I believe there's still loads of things to explore and I'm deeply convinced that constant learning is the only way forward.
 </p>
-<br>
+<br/>
 
 <!-- <p align="center">
 <a href="https://twitter.com/anser_waseem">
   <img align="center" src="https://img.shields.io/twitter/follow/anser_waseem?logo=twitter&label=Follow&style=for-the-badge" />
 </a>
 </p> -->
+<br/>
 
-<br>
+| <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2" alt="Anser's github stats" /></a> | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2&custom_title=Wakatime%20Stats%20(this%20week)" alt="Anser's Wakatime stats" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-[![Anser's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
+| <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anserwaseem&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" alt="GitHub Streak" /></a> | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2" alt="GithubTop Languages" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/anserwaseem)
+#### Top Repositories
 
-[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@anserwaseem)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anserwaseem&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical)](https://github.com/anserwaseem)
-
-<!--
 <a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MAthAdventuresWithPython&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MathAdventuresWithPython&theme=onedark" />
 </a>
 <a href="https://github.com/anserwaseem/Cuckoo-hash-table">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&Cuckoo-hash-table&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=automadeasy&theme=onedark" />
 </a>
--->
 
-
+<br />
+<br />
 
 ## Key Skills
+
 <p>
-  💬 C#, .NET, SQL, React.js, TypeScript<br>
-  📖 Node.js, Express.js, Electron.js, React Native
-  <!--
+  💬 React.js, TypeScript, C#, .NET, SQL, Azure Devops<br>
+  📖 Node.js, Express.js, Electron.js, GCP
+<!---
   <br><br>
-  <img src="https://img.shields.io/badge/HTML5-★★★★☆-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-★★★☆☆-000000?logo=CSS3&labelColor=1572b6&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-★★☆☆☆-000000?logo=JavaScript&labelColor=f7df1e&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-★★★☆☆-000000?logo=Python&labelColor=3776ab&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C++-★★★★☆-000000?logo=C%2B%2B&labelColor=00599c&logoColor=ffffff" />
-  -->
+  <img src="https://img.shields.io/badge/React★★★★☆-000000?logo=React&labelColor=e34f26&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-000000?logo=TypeScript-&labelColor=1572b6&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/.NET-★★★☆☆-000000?logo=.net&labelColor=f7df1e&logoColor=000000" />
+  --->
 </p>
 
 ## Tools I Use
+
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Visual%20Studio-9571bf?logo=Visual-Studio&labelColor=9571bf&logoColor=ffffff" />
@@ -63,6 +61,7 @@
 </p>
 
 ## 📫 Connect With Me
+
 <p>
   <a href="https://linkedin.com/in/anserwaseem"> <img src="https://img.shields.io/badge/Linkedin-0077b5?style=plastic&logo=Linkedin&labelColor=0077b5&logoColor=ffffff" />
   <a href="https://www.facebook.com/profile.php?id=100012232218081"> <img src="https://img.shields.io/badge/Facebook-1877f2?style=plastic&logo=Facebook&labelColor=1877f2&logoColor=ffffff" />
