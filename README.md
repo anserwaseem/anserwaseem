@@ -12,12 +12,6 @@
   ⚡ I'm a Full Stack Software Engineer. I love to put creativity and innovation in my work. I believe there's still loads of things to explore and I'm deeply convinced that constant learning is the only way forward.
 </p>
 <br/>
-
-<!-- <p align="center">
-<a href="https://twitter.com/anser_waseem">
-  <img align="center" src="https://img.shields.io/twitter/follow/anser_waseem?logo=twitter&label=Follow&style=for-the-badge" />
-</a>
-</p> -->
 <br/>
 
 | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2" alt="Anser's github stats" /></a> | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2&custom_title=Wakatime%20Stats%20(this%20week)" alt="Anser's Wakatime stats" /></a> |
