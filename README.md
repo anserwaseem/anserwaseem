@@ -41,7 +41,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/React★★★★☆-000000?logo=React&labelColor=e34f26&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-000000?logo=TypeScript-&labelColor=1572b6&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/.NET-★★★☆☆-000000?logo=.net&labelColor=f7df1e&logoColor=000000" />
   --->
 </p>
 
