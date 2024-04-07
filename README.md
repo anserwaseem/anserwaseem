@@ -25,7 +25,7 @@
 <a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MathAdventuresWithPython&theme=onedark" />
 </a>
-<a href="https://github.com/anserwaseem/Cuckoo-hash-table">
+<a href="https://github.com/anserwaseem/automadeasy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=automadeasy&theme=onedark" />
 </a>
 
