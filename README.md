@@ -1,63 +1,45 @@
-<h1 align="center">
-  <span style="color: aqua">Hi there, I'm Anser</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Anser;Software+Engineer;Full+Stack+Wizard" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-<img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Anser Waseem |
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Full Stack Engineer | 
-<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Pakistan
-</h3>
+### Languages
 
-<p align="center">
-  ⚡ I'm a Full Stack Software Engineer. I love to put creativity and innovation in my work. I believe there's still loads of things to explore and I'm deeply convinced that constant learning is the only way forward.
-</p>
-<br/>
-<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css&logoColor=1572B6)
 
-| <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anserwaseem&show_icons=true&count_private=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2" alt="Anser's github stats" /></a> | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anserwaseem&layout=compact&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2&custom_title=Wakatime%20Stats%20(this%20week)" alt="Anser's Wakatime stats" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+### Technologies
 
-| <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anserwaseem&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" alt="GitHub Streak" /></a> | <a href="https://github.com/anserwaseem"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anserwaseem&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2" alt="GithubTop Languages" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-000?&logo=apollo-graphql)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind-CSS)
 
-#### Top Repositories
+### Featured Projects
 
-<a href="https://github.com/anserwaseem/MAthAdventuresWithPython">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=MathAdventuresWithPython&theme=onedark" />
-</a>
-<a href="https://github.com/anserwaseem/automadeasy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anserwaseem&repo=automadeasy&theme=onedark" />
-</a>
+[![](https://img.shields.io/badge/-💰%20Bujit%20(PWA)-000)](https://github.com/anserwaseem/Bujit)
+[![](https://img.shields.io/badge/-📉%20Easy%20Accounting-000)](https://github.com/anserwaseem) 
+[![](https://img.shields.io/badge/-🤖%20Automadeasy-000)](https://github.com/anserwaseem/automadeasy)
+[![](https://img.shields.io/badge/-🐍%20Math%20Adventures-000)](https://github.com/anserwaseem/MathAdventuresWithPython)
+
+### Connect With Me
+
+[![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/anserwaseem)
+[![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hafiz.anser.waseem@gmail.com)
+[![](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/anserwaseem)
+[![](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/anser_waseem)
 
 <br />
-<br />
 
-## Key Skills
-
-<p>
-  💬 React.js, TypeScript, C#, .NET, SQL, Azure Devops<br>
-  📖 Node.js, Express.js, Electron.js, GCP
-<!---
-  <br><br>
-  <img src="https://img.shields.io/badge/React★★★★☆-000000?logo=React&labelColor=e34f26&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-000000?logo=TypeScript-&labelColor=1572b6&logoColor=ffffff" />
-  --->
-</p>
-
-## Tools I Use
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-9571bf?logo=Visual-Studio&labelColor=9571bf&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Github-181717?logo=GitHub&labelColor=181717&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Postman-ff6c37?logo=Postman&labelColor=ff6c37&logoColor=ffffff" />
-</p>
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/anserwaseem"> <img src="https://img.shields.io/badge/Linkedin-0077b5?style=plastic&logo=Linkedin&labelColor=0077b5&logoColor=ffffff" />
-  <a href="https://www.facebook.com/profile.php?id=100012232218081"> <img src="https://img.shields.io/badge/Facebook-1877f2?style=plastic&logo=Facebook&labelColor=1877f2&logoColor=ffffff" />
-  <a href="https://twitter.com/anser_waseem"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=plastic&logo=Twitter&labelColor=1da1f2&logoColor=ffffff" />
-  <a href="mailto:hafiz.anser.waseem@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&labelColor=d14836&logoColor=ffffff" />
-</p>
+<a href="https://github.com/anserwaseem"><img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anserwaseem&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Anser's GitHub Stats" /></a>&nbsp;<a href="https://github.com/anserwaseem"><img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anserwaseem&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Anser's Top Languages" /></a>
