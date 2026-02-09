@@ -2,9 +2,16 @@
   <img src="https://raw.githubusercontent.com/anserwaseem/anserwaseem/master/name.svg" alt="Anser Waseem" />
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Anser;Software+Engineer;Full+Stack+Wizard" alt="Typing SVG" />
+<div>
+   <a href="https://anserwaseem.com" target="_blank">
+    <img align="right" src="https://img.shields.io/badge/🌐_Portfolio-anserwaseem.com-101010?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
+  </a>
+
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+Anser;Software+Engineer;Full+Stack+Wizard" alt="Typing SVG" />
 </div>
+
+<br/>
+<br/>
 
 ### Languages
 
